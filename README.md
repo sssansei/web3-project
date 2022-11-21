@@ -5,30 +5,30 @@
 
 ```
 1. Clone this repository
-sh
+
 git clone git@github.com:sssansei/web3-project.git 
 ```
 ____
 ```
 2. Install the dependencies
-sh
+
 npm install
 ```
 ____
 ```
 3. Run the local node
-sh
+
 npx hardhat node
 ```
 ____
 ```
 4. Deploy to localhost
-sh
+
 npx hardhat run scripts/deploy.js --network localhost
 ```
 ____
 ```
 5. Start the app
-sh
+
 npm start
 ```
